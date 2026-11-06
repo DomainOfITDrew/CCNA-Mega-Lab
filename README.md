@@ -11,10 +11,12 @@ Configured layer 2 network segmentation with emphasis on forwarding optimization
 (VLAN, Etherchannel, Trunking, VTP, RSTP, HSRP) (IPv4 & IPv6, OSPF, DHCP) (SSH access)
 
 Network Services:
+
 Ensured consistent centralized date/time and logging through server implementations, conducted device updates remotely through establishing FTP services, and centralized wireless architecture to enable seamless scalable access point deployment.
 (NTP, Syslog, SNMP, FTP, WLAN)
 
 Security & Compliance:
+
 Mitigate network risk factors for both internal and external threats through type 9 hashed secrets, ACLs, and layer 2 security features~!
 (Encrypted local login, ACLs, Port-Security, DHCP Snooping, Dynamic ARP Inspection)
 <br />
